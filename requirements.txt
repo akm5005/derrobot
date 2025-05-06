@@ -6,3 +6,5 @@ simalign
 streamlit
 requests
 laser_encoders
+spacy>=3.5.0,<4.0.0
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0.tar.gz
