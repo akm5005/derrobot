@@ -22,14 +22,14 @@ At the moment we only support the German-English language pair.
    - You can upgrade after installing.
 
 
-### Usage 
+### Usage
 1. Run the streamlit app with `streamlit run app.py`.
 2. The chatbot will immediately prompt you with a German to English translation.
     - You can switch to English to German on the sidebar.
 3. Scores are computed as the raw arithmetic mean and can be found in the 'scores' sidebar tab.
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
